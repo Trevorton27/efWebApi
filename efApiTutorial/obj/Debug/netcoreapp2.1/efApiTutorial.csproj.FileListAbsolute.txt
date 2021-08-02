@@ -1,0 +1,17 @@
+C:\Users\spira\OneDrive\Documents\software-development-mastery-course\C#\cSharpChatApp\efApiTutorial\efApiTutorial\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\spira\OneDrive\Documents\software-development-mastery-course\C#\cSharpChatApp\efApiTutorial\efApiTutorial\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\spira\OneDrive\Documents\software-development-mastery-course\C#\cSharpChatApp\efApiTutorial\efApiTutorial\bin\Debug\netcoreapp2.1\efApiTutorial.deps.json
+C:\Users\spira\OneDrive\Documents\software-development-mastery-course\C#\cSharpChatApp\efApiTutorial\efApiTutorial\bin\Debug\netcoreapp2.1\efApiTutorial.runtimeconfig.json
+C:\Users\spira\OneDrive\Documents\software-development-mastery-course\C#\cSharpChatApp\efApiTutorial\efApiTutorial\bin\Debug\netcoreapp2.1\efApiTutorial.runtimeconfig.dev.json
+C:\Users\spira\OneDrive\Documents\software-development-mastery-course\C#\cSharpChatApp\efApiTutorial\efApiTutorial\bin\Debug\netcoreapp2.1\efApiTutorial.dll
+C:\Users\spira\OneDrive\Documents\software-development-mastery-course\C#\cSharpChatApp\efApiTutorial\efApiTutorial\bin\Debug\netcoreapp2.1\efApiTutorial.pdb
+C:\Users\spira\OneDrive\Documents\software-development-mastery-course\C#\cSharpChatApp\efApiTutorial\efApiTutorial\obj\Debug\netcoreapp2.1\efApiTutorial.AssemblyInfoInputs.cache
+C:\Users\spira\OneDrive\Documents\software-development-mastery-course\C#\cSharpChatApp\efApiTutorial\efApiTutorial\obj\Debug\netcoreapp2.1\efApiTutorial.AssemblyInfo.cs
+C:\Users\spira\OneDrive\Documents\software-development-mastery-course\C#\cSharpChatApp\efApiTutorial\efApiTutorial\obj\Debug\netcoreapp2.1\efApiTutorial.csproj.CoreCompileInputs.cache
+C:\Users\spira\OneDrive\Documents\software-development-mastery-course\C#\cSharpChatApp\efApiTutorial\efApiTutorial\obj\Debug\netcoreapp2.1\efApiTutorial.RazorAssemblyInfo.cache
+C:\Users\spira\OneDrive\Documents\software-development-mastery-course\C#\cSharpChatApp\efApiTutorial\efApiTutorial\obj\Debug\netcoreapp2.1\efApiTutorial.RazorAssemblyInfo.cs
+C:\Users\spira\OneDrive\Documents\software-development-mastery-course\C#\cSharpChatApp\efApiTutorial\efApiTutorial\obj\Debug\netcoreapp2.1\efApiTutorial.RazorTargetAssemblyInfo.cache
+C:\Users\spira\OneDrive\Documents\software-development-mastery-course\C#\cSharpChatApp\efApiTutorial\efApiTutorial\obj\Debug\netcoreapp2.1\efApiTutorial.dll
+C:\Users\spira\OneDrive\Documents\software-development-mastery-course\C#\cSharpChatApp\efApiTutorial\efApiTutorial\obj\Debug\netcoreapp2.1\efApiTutorial.pdb
+C:\Users\spira\OneDrive\Documents\software-development-mastery-course\C#\cSharpChatApp\efApiTutorial\efApiTutorial\obj\Debug\netcoreapp2.1\efApiTutorial.genruntimeconfig.cache
+C:\Users\spira\OneDrive\Documents\software-development-mastery-course\C#\cSharpChatApp\efApiTutorial\efApiTutorial\obj\Debug\netcoreapp2.1\efApiTutorial.csproj.AssemblyReference.cache
